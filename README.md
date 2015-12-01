@@ -18,9 +18,9 @@ Win Forms App that turns off the screen and the mouse.
 *	Put the file in some folder (different than on Desktop).
 *	Create a shortcut on the Desktop.
 *	In Windows **Device Manager** locate your mouse.
-*	**Properities** -> **Details** tab -> Property: **Device Instance Path**
-*	Copy the Value (something like: HID\VID_093A&PID_2510\6&3147E919&0&0000)
-*	In the shortcut locate to Shortcut tab -> Target
+*	**Properities** => **Details** tab => Property: **Device Instance Path**
+*	Copy the Value (something like: `HID\VID_093A&PID_2510\6&3147E919&0&0000`)
+*	In the shortcut locate to Shortcut tab => Target
 *	Paste the copied value after the exe. Example:<br>
 `C:\Test\TurnOffScreenAndMouse.exe`<br>
 becomes<br>
