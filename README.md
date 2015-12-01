@@ -1,7 +1,7 @@
 Turn-Off-Screen-And-Mouse
 =========================
-Win Forms App that turns off the screen and the mouse.
-
+Win Forms App that turns off the screen and the mouse.<br>
+[Direct download](https://github.com/TsvetanKT/Turn-Off-Screen-And-Mouse/raw/master/TurnOffScreenAndMouse.exe)
 
 ### Description:
 *	Turns off the screen.
