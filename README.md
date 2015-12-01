@@ -5,7 +5,7 @@ Win Forms App that turns off the screen and the mouse.<br>
 
 ### Description:
 *	Turns off the screen.
-*	Desibles the mouse so mouse movements can't wake up the screen.
+*	Disables the mouse so mouse movements can't wake up the screen.
 *	Press any keyboard key to restore the screen and the mouse.
 
 
@@ -26,4 +26,4 @@ Win Forms App that turns off the screen and the mouse.<br>
 becomes<br>
 `C:\Test\TurnOffScreenAndMouse.exe HID\VID_093A&PID_2510\6&3147E919&0&0000`
 *	(Optional) Change the icon.
-*	(Optional) Add a Shortcut key (Hotkey).
+*	(Optional) Add a Shortcut key (Hot key).
